@@ -1,0 +1,24 @@
+.nav-wrapper{
+    background-color:#6f4037;
+}
+.slider .indicators .indicator-item.active{
+    background-color:#6f4037;
+}
+.descrip .section .header,.fabout
+{
+    font-family: 'Bree Serif', serif;
+}
+.move{
+    margin-top:50px ;
+}
+
+.parallax-container{
+    min-height: 480px;
+    height: auto;
+}
+.footer-one{
+    background: #6f4037;
+}
+.footer-two{
+    background: #462822;
+}
